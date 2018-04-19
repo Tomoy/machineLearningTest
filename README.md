@@ -1,2 +1,2 @@
 # machineLearningTest
-Testing some machine learning basis
+Testing some machine learning basics
